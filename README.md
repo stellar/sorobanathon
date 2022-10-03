@@ -1,3 +1,4 @@
+
 # Welcome to Sorobonathon: First Light 🔭 
 
   
@@ -73,7 +74,7 @@ Note: SDF is under no obligation to make any rewards if there are no eligible su
 -   Choose the category that best fits your post
     
 
--   If you want to add a new category, let us know on the[Stellar Dev Discord](https://discord.gg/UxsRyqpyBn) in the #soroban channel.
+-   If you want to add a new category, let us know on the [Stellar Dev Discord](https://discord.gg/UxsRyqpyBn) in the #soroban channel.
     
 
 -   Github Discussions requires you to search for similar discussion before creating a new thread. It's a good idea! That way, you can see submissions that have already been turned in. Don't copy from any, but feel free to create something similar. Use your brain!
@@ -115,7 +116,7 @@ Connect with the community
 
 -   Be proactive, engage with other devs, and ask for feedback in the [Stellar Dev Discord](https://discord.gg/UxsRyqpyBn) #soroban channel.
     
--   Remember, this is a community we build together 💪! Our code of conduct is[ \[here\]]([https://www.stellar.org/community/code-of-conduct](https://www.stellar.org/community/code-of-conduct)).**
+-   Remember, this is a community we build together 💪! Our code of conduct ([here](https://www.stellar.org/community/code-of-conduct/)).
     
 
 Remember to have fun!
@@ -140,4 +141,4 @@ An “Eligible Individual” is a natural person who:
 
 SDF reserves the right, in its absolute discretion, to disqualify any participant or submission, without warning, from Sorobanathon: First Light, and to ban them from future programs funded by the [Soroban Adoption Fund] if they act in a way that is inappropriate, or not in the best interests or spirit of the program.
 
-**Remember that this is a community we build together 💪! Our code of conduct is[ \[here\]]([https://www.stellar.org/community/code-of-conduct](https://www.stellar.org/community/code-of-conduct)).**
+**Remember that this is a community we build together 💪! Our code of conduct is ([here](https://www.stellar.org/community/code-of-conduct/)).**
