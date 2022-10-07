@@ -50,9 +50,7 @@ If you haven't already, check out the [Soroban docs](https://soroban.stellar.org
 -   Click the "Discussions" tab at the top of the page    
 -   Create a "New Discussion"    
 -   Title your discussion thread
--   Select a the “General” category    
--   Github Discussions requires you to search for similar discussion threads before creating a new thread. It's a good idea! That way, you can see submissions that have already been turned in. Don't copy from any, but feel free to create something similar. Use your brain!    
--   When you're ready, check off “I have done a search for similar discussions.”    
+-   Select the “General” category to post your submission    
 -   Add your submission. Feel free to put it right in the box, or to link to an external resource.    
 -   Once you have posted, you're done!
 
