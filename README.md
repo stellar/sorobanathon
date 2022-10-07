@@ -36,7 +36,7 @@ That said, we don't require submissions to be long, or involved, or super polish
 Rewards will be based on the scope and complexity of the submission. That said, here is a rough idea of what certain types of submissions can earn.
 
 -   Code examples 250-750 XLM
--   Issues and feature requests 250-500 XLMUSDC
+-   Issues and feature requests 250-500 XLM
 -   Long-form written tutorials (how-tos, explainers) 1000-3000 XLM    
 -   Long-form technical video tutorials 1000-3000 XLM
     
