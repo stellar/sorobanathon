@@ -1,13 +1,8 @@
-
 # Welcome to *Sorobanathon: First Light* 🔭
 
 Between now and December 15, 2022, you can earn rewards for experimenting with Soroban, and sharing your experience by creating content of all kinds, big and small. This is your chance to be an early Soroban adopter, and to be a part of the first program funded by the $100M Soroban Adoption Fund. Many more programs will follow! To find out about them, make sure to [join the Stellar Dev Discord](https://discord.gg/sp8zfb4qH6), and keep an eye on the #soroban channel.
 
-  
-
 The goal right now is to get you started, to gather feedback to guide the continued development of Soroban, and to generate some content to help kickstart the Soroban ecosystem. So roll up your sleeves, experiment, and have some fun!
-
-  
 
 For each qualified submission you create, you can earn a reward of 250 - 3000 XLM. It's a fun, low-lift way to tinker with Soroban while you help shape its development, and help grow the ecosystem as a whole.
 
@@ -21,9 +16,22 @@ For each qualified submission you create, you can earn a reward of 250 - 3000 XL
 
 Also, if you're trying to do something and it doesn't work, let us know! File a good issue and/or document your experience in some way, and turn that in! Soroban is still a work in progress, and info about issues, bugs, and blockers is super useful right now.
 
-  
-
 You can file new issues (and see existing issues) in the [Soroban CLI repo](https://github.com/stellar/soroban-cli/issues) or the [Soroban SDK repo.](https://github.com/stellar/rs-soroban-sdk/issues) If you do file an issue, make sure to link to it in your *Sorobanathon: First Light* submission. If you have questions, feel free to ask them in the [Stellar Dev Discord](https://discord.gg/sp8zfb4qH6) #soroban channel
+
+## Get Started
+
+If you haven't already, check out the [Soroban docs](https://soroban.stellar.org/docs) to get oriented, get set up, and get your head around the Soroban fundamentals. When you're ready to create a submission…
+
+-   Click the "Discussions" tab at the top of the page    
+-   Create a "New Discussion"    
+-   Title your discussion thread
+-   Select the “General” category to post your submission    
+-   Add your submission. Feel free to put it right in the box, or to link to an external resource.    
+-   Once you have posted, you're done!
+
+We will review your submission within a week, and reply on your submission thread to let you know if your submission qualifies to earn a reward! If so, we will ask you to complete a form to collect info necessary to validate and deliver a reward.
+
+If your submission did not qualify, we may provide you with feedback on what's missing, or on how you can improve your submission so it qualifies. Once you have made the requested revisions, we will re-review your submission, and let you know if your submission qualifies for a reward.
 
 ## What makes a good submission
 
@@ -40,23 +48,7 @@ Rewards will be based on the scope and complexity of the submission. That said, 
 -   Long-form written tutorials (how-tos, explainers) 1000-3000 XLM    
 -   Long-form technical video tutorials 1000-3000 XLM
     
-
 Note: SDF is under no obligation to make any rewards if there are no eligible submissions or Eligible Individuals (as defined below), or if Eligible Individuals do not successfully complete the compliance and tax obligations set forth below.
-
-## Get Started
-
-If you haven't already, check out the [Soroban docs](https://soroban.stellar.org/docs) to get oriented, get set up, and get your head around the Soroban fundamentals. When you're ready to create a submission…
-
--   Click the "Discussions" tab at the top of the page    
--   Create a "New Discussion"    
--   Title your discussion thread
--   Select the “General” category to post your submission    
--   Add your submission. Feel free to put it right in the box, or to link to an external resource.    
--   Once you have posted, you're done!
-
-We will review your submission within a week, and reply on your submission thread to let you know if your submission qualifies to earn a reward! If so, we will ask you to complete a form to collect info necessary to validate and deliver a reward.
-
-If your submission did not qualify, we may provide you with feedback on what's missing, or on how you can improve your submission so it qualifies. Once you have made the requested revisions, we will re-review your submission, and let you know if your submission qualifies for a reward.
 
 ## Tips for picking submission topics
 
@@ -102,10 +94,11 @@ While anyone may make a submission, only Eligible Individuals will be considered
 
 SDF reserves the right, in its absolute discretion, to disqualify any participant or submission, without warning, from *Sorobanathon: First Light*, and to ban them from future programs funded by the Soroban Adoption Fund if they act in a way that violates these guidelines, is inappropriate, or not in the best interests or spirit of the program.
 
-###  License to Submissions
+### License to Submissions
+
 By posting a submission, you will be granting to SDF and its assigns, licensees, and successors a royalty-free, irrevocable, non-exclusive and unlimited right and permission to use your submission, name, picture, statements, project name, likeness, and voice, and any material based thereon or derived therefrom (collectively, the “Content”), in any form, media, or technology now known or later developed, and to use, edit, modify, duplicate, distribute, publish, publicize and/or create derivative works from the Content (or any portion thereof), throughout the world, in perpetuity, without limitation and without payment of any royalties or compensation, consideration, notice or permission, except where prohibited by law, for the purpose of creating educational, informational, and promotional materials or creative assets (any such materials or assets that feature the Content are referred to herein as “Assets”), including, without limitation, on social media, or on any website owned or affiliated with SDF. You will have no right of approval, no claim to any compensation, and no claim arising out of the use, alteration, or distortion or use in any composite form of the Content.
 
-###  Legal Terms and Acknowledgements  
+### Legal Terms and Acknowledgements  
 
 *Sorobanathon: First Light* is governed by the SDF [Terms of Service](https://www.stellar.org/terms-of-service?locale=en) and the guidelines described herein (the “Sorobanathon Eligibility Guidelines”). SDF may collect personal information from you in connection with your submission, and such information is subject to the SDF [Privacy Policy](https://www.stellar.org/privacy-policy?locale=en). SDF reserves the right, in its sole discretion, to cancel, suspend and/or modify all or any part of *Sorobanathon: First Light* at any time for any reason. The terms and conditions of *Sorobanathon: First Light* are subject to change at any time, including the rights or obligations of the Participants and SDF.
 
