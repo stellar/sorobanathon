@@ -22,7 +22,7 @@ You can file new issues (and see existing issues) in the [Soroban CLI repo](http
 
 If you haven't already, check out the [Soroban docs](https://soroban.stellar.org/docs) to get oriented, get set up, and get your head around the Soroban fundamentals. When you're ready to create a submission…
 
--   Click the "Discussions" tab at the top of the page    
+-   Click the ["Discussions"](https://github.com/stellar/sorobanathon/discussions) tab at the top of the page    
 -   Create a "New Discussion"    
 -   Title your discussion thread
 -   Select the “General” category to post your submission    
