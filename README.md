@@ -6,7 +6,7 @@ The goal right now is to get you started, to gather feedback to guide the contin
 
 For each qualified submission you create, you can earn a reward of 250 - 3000 XLM. It's a fun, low-lift way to tinker with Soroban while you help shape its development, and help grow the ecosystem as a whole.
 
-## Here's the kind of submissions we're looking for:
+## Here's the kind of submission we're looking for:
 
 -   Code examples (think [Solidity by Example](https://solidity-by-example.org/)) 
 -   Practical tutorials (such as this [DAO tutorial](https://docs.near.org/develop/relevant-contracts/dao))    
