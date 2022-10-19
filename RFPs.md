@@ -1,4 +1,4 @@
-Any submissions to the Sorobanathon are welcome but for those having trouble getting the cranium cauldion bubbling here are some guaranteed winners.
+Any submissions to the Sorobanathon are welcome but for those having trouble getting the cranium cauldron bubbling here are some creative catalysts.
 
 - [ ] A written and/or video tutorial walking through the [soroban-example-dapp](https://github.com/stellar/soroban-example-dapp). [Related issue](https://github.com/stellar/soroban-example-dapp/issues/3)
 - [ ] Rock, paper, scissors game
