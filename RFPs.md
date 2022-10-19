@@ -12,7 +12,7 @@ Any submissions to the Sorobanathon are welcome but for those having trouble get
 - [ ] One or more escrow contract examples
 - [ ] Zero knowledge proof exploratory concepts
 - [ ] A more complex and fully decentralized [hot potato](https://stellarhotpotato.tk/) game
-- [ ] A contract that you can send a payment to it and redistribute the payment randomly to the holders of a token or NFT
+- [ ] A contract you can send a payment to that redistributes the payment randomly to the holders of a token or NFT
 - [ ] Explorations into various bridge contracts
 - [ ] A todolist or task board that issues rewards for completed tasks
 - [ ] NFT royalties contract
