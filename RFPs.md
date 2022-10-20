@@ -16,3 +16,4 @@ Any submissions to the Sorobanathon are welcome but for those having trouble get
 - [ ] A todolist or task board that issues rewards for completed tasks
 - [ ] NFT royalties contract
 - [ ] Wild and crazy NFT explorations and games
+- [ ] Basic example showcasing interoperability between Classic and Smart assets/tokens
