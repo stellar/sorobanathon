@@ -18,3 +18,5 @@ Any submissions to the Sorobanathon are welcome but for those having trouble get
 - [ ] Wild and crazy NFT explorations and games
 - [ ] Basic example showcasing interoperability between Classic and Smart assets/tokens
 - [ ] Be the first to wrap and deploy the native XLM token on Futurenet
+- [ ] Frontend streaming contract invocations on Futurenet.
+- [ ] Frontend displaying stats on number of deployed contracts and invocations over time.
