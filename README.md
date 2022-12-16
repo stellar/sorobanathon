@@ -1,5 +1,5 @@
 # Welcome to *Sorobanathon: First Light* 🔭
-
+(We are no longer accepting Submissions, stay tuned for more Soroban adoption programs to come)
 Between now and December 15, 2022, you can earn rewards for experimenting with Soroban, and sharing your experience by creating content of all kinds, big and small. This is your chance to be an early Soroban adopter, and to be a part of the first program funded by the $100M Soroban Adoption Fund. Many more programs will follow! To find out about them, make sure to [join the Stellar Dev Discord](https://discord.gg/sp8zfb4qH6), and keep an eye on the #soroban channel.
 
 The goal right now is to get you started, to gather feedback to guide the continued development of Soroban, and to generate some content to help kickstart the Soroban ecosystem. So roll up your sleeves, experiment, and have some fun!
