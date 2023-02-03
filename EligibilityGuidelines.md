@@ -1,6 +1,6 @@
-# Sorobanathon Eligibility Guidelines
+# 
 
-### Submission Guidelines
+### Rules and Terms
 
  -   All submission materials should be in English or, if not in English, include an English translation.    
  - Do not submit:
